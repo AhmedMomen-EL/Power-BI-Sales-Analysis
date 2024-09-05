@@ -12,17 +12,17 @@ The sales department in a company that sells tech products, needs their data to 
 Since we are going to accomplish these tasks only using Power BI you need to have [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 
 ### Tasks Accomplished
-Connected Data to Power BI
-Cleaned the data using M language or Power Query
-Fixed issues and errors raised
-Build the right Schema
-Built the right relationship between tables
-Made sure the Cardinality was appropriate and created bridge tables
-Created Date table using Power Query
-Created necessary columns using M language (Power Query)
-Created different measures using DAX
-Built Dashboard that covers all questions that may be asked
-Chose the appropriate chart type that best illustrates the point
+. Connected Data to Power BI
+. Cleaned the data using M language or Power Query
+. Fixed issues and errors raised
+. Build the right Schema
+. Built the right relationship between tables
+. Made sure the Cardinality was appropriate and created bridge tables
+. Created Date table using Power Query
+. Created necessary columns using M language (Power Query)
+. Created different measures using DAX
+. Built Dashboard that covers all questions that may be asked
+. Chose the appropriate chart type that best illustrates the point
 
 ### Files
 1. [Sales Analysis.pbix](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Sales%20Analysis.pbix) : The original file that contains all work.
