@@ -12,23 +12,23 @@ The sales department in a company that sells tech products, needs their data to 
 Since we are going to accomplish these tasks only using Power BI you need to have [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
 
 ### Tasks Accomplished
-. Connected Data to Power BI
-. Cleaned the data using M language or Power Query
-. Fixed issues and errors raised
-. Build the right Schema
-. Built the right relationship between tables
-. Made sure the Cardinality was appropriate and created bridge tables
-. Created Date table using Power Query
-. Created necessary columns using M language (Power Query)
-. Created different measures using DAX
-. Built Dashboard that covers all questions that may be asked
-. Chose the appropriate chart type that best illustrates the point
+- Connected Data to Power BI
+- Cleaned the data using M language or Power Query
+- Fixed issues and errors raised
+- Build the right Schema
+- Built the right relationship between tables
+- Made sure the Cardinality was appropriate and created bridge tables
+- Created Date table using Power Query
+- Created necessary columns using M language (Power Query)
+- Created different measures using DAX
+- Built Dashboard that covers all questions that may be asked
+- Chose the appropriate chart type that best illustrates the point
 
 ### Files
-1. [Sales Analysis.pbix](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Sales%20Analysis.pbix) : The original file that contains all work.
-2. [Dashboard.png](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Dashboard.png) : The Dashboard in png formate.
-3. [Schema.png](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Schema.png) : Schema in png formate.
-4. [Sales Data.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Sales%20Data.xlsx) : Sales data that contains all orders from 2008 to 2009.
-5. [Customers.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Customers.xlsx) : Data that have Details about Customers.
-6. [Forecasted Data.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Forecasted%20Data.xlsx) : Forecasted data of 2009.
-7. [Products.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Products.xlsx) : Data that have Details about Products.
+- [Sales Analysis.pbix](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Sales%20Analysis.pbix) : The original file that contains all work.
+- [Dashboard.png](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Dashboard.png) : The Dashboard in png formate.
+- [Schema.png](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Schema.png) : Schema in png formate.
+- [Sales Data.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Sales%20Data.xlsx) : Sales data that contains all orders from 2008 to 2009.
+- [Customers.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Customers.xlsx) : Data that have Details about Customers.
+- [Forecasted Data.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Forecasted%20Data.xlsx) : Forecasted data of 2009.
+- [Products.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Products.xlsx) : Data that have Details about Products.
