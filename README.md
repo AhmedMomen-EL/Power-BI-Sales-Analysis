@@ -25,3 +25,10 @@ Built Dashboard that covers all questions that may be asked
 Chose the appropriate chart type that best illustrates the point
 
 ### Files
+[Sales Analysis.pbix](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Sales%20Analysis.pbix) : The original file that contains all work.
+[Dashboard.png](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Dashboard.png) : The Dashboard in png formate.
+[Schema.png](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Schema.png) : Schema in png formate.
+[Sales Data.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Sales%20Data.xlsx) : Sales data that contains all orders from 2008 to 2009.
+[Customers.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Customers.xlsx) : Data that have Details about Customers.
+[Forecasted Data.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Forecasted%20Data.xlsx) : Forecasted data of 2009.
+[Products.xlsx](https://github.com/AhmedMomen-EL/Power-BI-Sales-Analysis/blob/main/Row/Products.xlsx) : Data that have Details about Products.
